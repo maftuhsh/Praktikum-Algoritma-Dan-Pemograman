@@ -1,2 +1,2 @@
 # Praktikum-Algoritma-Dan-Pemograman
-Praktikum Algoritma Dan Pemograman Semester 2
+Praktikum ini mempelajari algoritma data dan bahasa pemograman bahasa C++. Praktikum ini bertujuan agar praktikan memahami cara membaca program dan menganalisa algoritma sebuah data
